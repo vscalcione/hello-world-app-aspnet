@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/vscalcione/.dotnet/store/|arch|/|tfm|",
+      "/home/vscalcione/.nuget/packages"
+    ]
+  }
+}
